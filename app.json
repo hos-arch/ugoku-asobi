@@ -1,10 +1,10 @@
 {
   "id": "ugoku-asobi",
   "title": "うごく あそび",
-  "desc": "手押し車・ゆれる遊び・遊具に乗る前に、画面で動きを見せる。大人が端末を傾ける。",
-  "url": "",
+  "desc": "手押し車・ゆれる・遊具に乗る前に、画面で動きを見せる。",
+  "url": "https://ugoku-asobi.vbw.workers.dev/",
   "order": [8],
-  "icon": "",
+  "icon": "ugoku",
   "thumb": "",
   "group": "main",
   "hidden": false
